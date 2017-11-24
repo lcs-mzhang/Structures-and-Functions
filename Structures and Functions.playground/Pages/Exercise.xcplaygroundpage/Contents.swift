@@ -63,6 +63,8 @@ Solve(between: slope1, Position: point1)
 
 
 
+
+
 //find perp slope
 //sub in point
 //find poi
